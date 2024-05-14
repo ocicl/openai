@@ -4,6 +4,6 @@ Common Lisp library for using OpenAI's GPT4 APIs.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/mark-watson/openai.git |
-| commit  | d175d2e                                       |
+| commit  | 8de74ff                                       |
 | systems | openai                                        |
 |---------+-----------------------------------------------|
